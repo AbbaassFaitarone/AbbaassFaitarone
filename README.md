@@ -11,7 +11,7 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div></br>
 
-Profissional em evolução, buscando conhecimento, apredizados e explorando o que a tecnoligia pode fornecer. 
+Profissional em evolução, buscando conhecimento, aprendizados e explorando o que a tecnologia pode fornecer.
 
 ## Certificados Alura:
 -Lógica de programação: comece em lógica com o jogo Pong e JavaScript</br>
